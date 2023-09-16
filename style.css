@@ -1,0 +1,15 @@
+.container{
+    background-color: white;
+}
+*{
+    background-color: white;
+}
+.heading{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    background-color: grey;
+    color: aquamarine;
+}
+
+
